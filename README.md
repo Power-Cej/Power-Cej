@@ -74,12 +74,7 @@
   
   ### 📊 GitHub Statistics
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=power-cej&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=power-cej&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <br/>
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=power-cej&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   
 </div>
 
@@ -93,17 +88,6 @@
   
 </div>
 
----
-
-<div align="center">
-  
-  ### 🏆 GitHub Trophies
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=power-cej&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-  
-</div>
-
----
 
 <div align="center">
   
